@@ -1,2 +1,4 @@
 # notes
-Notes for thee and for me.
+Repo for my notes.
+
+[Terraform](Terraform/terraformNotes.md)
