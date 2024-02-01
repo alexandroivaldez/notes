@@ -1,49 +1,57 @@
 # Terraform Notes
-**Terraform** - A declarative cloud agnostic infrastructure as code tool. It is used with multiple cloud providers: AWS, Azure, VMSphere, etc.
 
 **State File** - the single course of truth of your infrastructure. It reflects what's actually on your cloud.
 
 **Installing Terraform on Mac**
-```
+
+```shell
 brew install hashicorp/tap/terraform
 brew update
 brew upgrade hashicorp/tap/terraform
 ```
+
 ## Terraform Code
 
 ***Initializes Terraform state***
-``` tf
+
+```shell
 terraform init
 ```
 
 ***Validates your code's syntax***
-```
+
+```shell
 terraform validate
 ```
 
 ***Format your code***
-```
+
+```shell
 terraform fmt
 ```
 
 ***See Changes***
-```
+
+```shell
 terraform plan
 ```
 
 ***Apply Changes***
-```
+
+```shell
 terraform apply
 ```
 
 ***Destroy Your Infrastructure***
-```
+
+```shell
 terraform destroy
 ```
 
 ## Variables
 
 How to define a variable in Terraform:
+
 ```
 # vars.tf
 variable REGION {
@@ -57,10 +65,20 @@ providers "aws" {
 ```
 
 ## Provisioning
+
 - Build custom images with tools like *packer*
 - Use standard Image and use provisioner to setup software and files.
-    - File uploads
-    - remote_exec
-    - Ansible, Puppet or Chef
+  - File uploads
+  - remote_exec
+  - Ansible, Puppet or Chef
 
-
+``` terraform
+terraform {
+    required_providers {
+        aws = {
+            source = "hashicorps/aws"
+            version = "~> 3.0"
+        }
+    }
+}
+```

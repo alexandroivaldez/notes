@@ -1,4 +1,11 @@
 # notes
 Repo for my notes.
 
-[Terraform](Terraform/terraformNotes.md)
+### VSCode Extensions
+- Foam
+
+
+### Table of Contents
+- [Terraform](Terraform/README.md)
+- [Godot](Godot/README.md)
+- [Tailwind](Tailwind/README.md)
