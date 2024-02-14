@@ -10,34 +10,34 @@
 
 ![Image 01](images/image-01.png)
 
-**Repository** - Represents the logia container holding the codebase.
+- **Repository** - Represents the logia container holding the codebase.
 
-**Commit** - Represents a change of data in the local repo.
+- **Commit** - Represents a change of data in the local repo.
 
-**Tree** - Represents the entire history of a repo.
+- **Tree** - Represents the entire history of a repo.
 
-**Remote** - A version of your project hosted elsewhere, used for exchanging commits.
+- **Remote** - A version of your project hosted elsewhere, used for exchanging commits.
 
-**Branches** - Divergent paths of development, allowing isolated changes.
-    - Main - The most common name for the default branch.
+- **Branches** - Divergent paths of development, allowing isolated changes.
+  - Main - The most common name for the default branch.
 
-**Clone** - Creates a compte local copy of a repository, including its history.
+- **Clone** - Creates a compte local copy of a repository, including its history.
 
-**Checkout** - Switches between different branches or commits in your repo.
+- **Checkout** - Switches between different branches or commits in your repo.
 
-**Pull** - Downloads changes from a remote repository and merges them into your branch.
+- **Pull** - Downloads changes from a remote repository and merges them into your branch.
 
-**Push** - Uploads your local repository changes to a remote repository.
+- **Push** - Uploads your local repository changes to a remote repository.
 
-**Fetch** - Downloads data from a remote repo without integrating it into your work.
+- **Fetch** - Downloads data from a remote repo without integrating it into your work.
 
-**Reset** - Undoes local changes, with options to unstage or revert commits.
+- **Reset** - Undoes local changes, with options to unstage or revert commits.
 
-**Merge** - Combines multiple commit histories into one.
+- **Merge** - Combines multiple commit histories into one.
 
-**Staging files** - Prepares and organizes changes for a commit.
-    - Commit - Saves your changes as a snapshot in the local repository.
-    - Add - Adds changes to the staging area for the next commit.
+- **Staging files** - Prepares and organizes changes for a commit.
+  - Commit - Saves your changes as a snapshot in the local repository.
+  - Add - Adds changes to the staging area for the next commit.
 
 ## Version Control Services (VCS)
 
@@ -58,7 +58,7 @@
 **Git VS GitHub**
 ![Image 2](images/image-02.png)
 
-**Github Repo** - Your git repo that you push upstream to GitHub. GitHUb then allows you to access and manages your git repo with several different functionalities:
+**Github Repo** - Your git repo that you push upstream to GitHub. GitHub then allows you to access and manage your git repo with several different functionalities:
 
     - View different branches
     - View tags
