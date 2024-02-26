@@ -71,6 +71,20 @@
         - License.md
     - Perform actions such as forking, staring and cloning.
 
+## Cloning
+
+We can clone three ways: HTTPS, SSH and GitHub CLI
+
+### HTTPS
+
+```sh
+git clone https://github.com/alexandroivaldez/repoName
+```
+
+### SSH
+
+### GitHub CLI
+
 <!-- ``` -->
 
 ### Commit Shaw
