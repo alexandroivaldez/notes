@@ -5,3 +5,10 @@
     - Can be installed on Linux, Windows and macOS
     - There's TONS of commands
 
+```
+brew install gh
+```
+
+
+### PATs (Personal Access Tokens)
+These are used for GitHub APIs
