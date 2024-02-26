@@ -25,3 +25,13 @@ A feature that allows you to open a PR but mark it as a work in progress (WIP).
 > - Code owners are not automatically requested to review draft pull requests.
 > - A feature only for **GitHub Organizations Teams**
 
+## Pull Request Templates
+
+Similar to Issue Templates, in the fact that they will populate the pull request text area with the specified template.
+
+- You can create A file in .github/pull_request_template.md
+- You can create multiple PR templates in a folder called .github/PULL_REQUEST_TEMPLATE
+
+## Subscriptions
+
+Following activities for PRs and Issues, as opposed to "Watching" which is for repos or users.
