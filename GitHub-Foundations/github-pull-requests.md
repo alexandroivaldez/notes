@@ -21,7 +21,8 @@ Compare - What will be merged into Base.
 
 A feature that allows you to open a PR but mark it as a work in progress (WIP).
 
-> - Draft PRs CAN NOT be merged.
-> - Code owners are not automatically requested to review draft pull requests.
-> - A feature only for **GitHub Organizations Teams**
-
+```
+- Draft PRs CAN NOT be merged.
+- Code owners are not automatically requested to review draft pull requests.
+- A feature only for **GitHub Organizations Teams**
+```
