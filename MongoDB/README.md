@@ -1,19 +1,23 @@
 # MongoDB
 
-These are my notes for: [MongoDB Node.js Developer Path](https://learn.mongodb.com/learn/learning-path/mongodb-nodejs-developer-path)
+These are my notes for [MongoDB Node.js Developer Path](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path). Notes for each section can be found below:
 
 ## Table of Contents
 
-- [Getting Started with MongoDB Atlas, the Developer Data Platform](unit-1.md)
-- [Overview of MongoDB and the Document Model](unit-2.md)
-- [MongoDB Data Modeling Intro](unit-3.md)
-- [Connecting to a MongoDB Database](unit-4.md)
-- [Connecting to MongoDB in Node.js](unit-5.md)
-- [MongoDB CRUD Operations: Insert and Find Documents](unit-6.md)
-- [MongoDB CRUD Operations: Replace and Delete Documents](unit-7.md)
-- [MongoDB CRUD Operations: Modifying Query Results](unit-8.md)
-- [MongoDB CRUD Operations in Node.js](unit-9.md)
-- [MongoDB Aggregation](unit-10.md)
-- [MongoDB Aggregation with Node.js](unit-11.md)
-- [MongoDB Indexes](unit-12.md)
-- MongoDB Atlas Search
+1. [Into to MongoDB](sections/section-01.md)
+2. [Getting Started with MongoDB Atlas]()
+3. [MongoDB and the Document Model]()
+4. [MongoDB Data Modeling Intro]()
+5. [Connecting to a MongoDB Database]()
+6. [Connecting to MongoDB in Node.js]()
+7. [Into to MongoDB]()
+8. [Into to MongoDB]()
+9. [Into to MongoDB]()
+10. [Into to MongoDB]()
+11. [Into to MongoDB]()
+12. [Into to MongoDB]()
+13. [Into to MongoDB]()
+14. [Into to MongoDB]()
+15. [Into to MongoDB]()
+16. [Into to MongoDB]()
+17. [Into to MongoDB]()
