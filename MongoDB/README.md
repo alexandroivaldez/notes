@@ -5,7 +5,7 @@ These are my notes for [MongoDB Node.js Developer Path](https://learn.mongodb.co
 ## Table of Contents
 
 1. [Into to MongoDB](sections/section-01.md)
-2. [Getting Started with MongoDB Atlas]()
+2. [Getting Started with MongoDB Atlas](sections/section-02.md)
 3. [MongoDB and the Document Model]()
 4. [MongoDB Data Modeling Intro]()
 5. [Connecting to a MongoDB Database]()
