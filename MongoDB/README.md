@@ -10,7 +10,7 @@ These are my notes for [MongoDB Node.js Developer Path](https://learn.mongodb.co
 4. [MongoDB Data Modeling Intro](sections/section-04.md)
 5. [Connecting to a MongoDB Database](sections/section-06.md)
 6. [Connecting to MongoDB in Node.js]()
-7. [Into to MongoDB]()
+7. [MongoDB CRUD](sections/section-07.md)
 8. [Into to MongoDB]()
 9. [Into to MongoDB]()
 10. [Into to MongoDB]()
