@@ -15,7 +15,7 @@ These are my notes for [MongoDB Node.js Developer Path](https://learn.mongodb.co
 9. [Into to MongoDB]()
 10. [Into to MongoDB]()
 11. [Into to MongoDB]()
-12. [Into to MongoDB]()
+12. [Into to MongoDB](sections/section-12.md)
 13. [Into to MongoDB]()
 14. [Into to MongoDB]()
 15. [Into to MongoDB]()
