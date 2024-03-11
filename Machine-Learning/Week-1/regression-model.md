@@ -40,4 +40,4 @@ The cost function formula determines how well the algorithm is doing based on th
 
 ## Optional Lab: Cost function
 
-Click [here](optional-lab-01.md) to view lab notes.
+Click [here](optional-lab-02.md) to view lab notes.

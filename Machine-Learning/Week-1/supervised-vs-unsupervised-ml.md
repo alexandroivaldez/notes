@@ -39,4 +39,3 @@ As opposed to supervised learning, where data comes with inputs x AND outputs la
 ## Jupyter Notebooks
 
 Default environment to code and test ML code. This is the exact same environment and tool that many large companies are using for their ML code.
-
