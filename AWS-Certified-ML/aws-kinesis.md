@@ -88,7 +88,7 @@ Service for simple transformations, continous metric generation and responsive a
 
 Streams for... you guessed it, videos.
 
-- The procuders are physical cameras, and you can have one producer per video stream.
+- The procedures are physical cameras, and you can have one producer per video stream.
     - 1000 cameras == 1000 producers
 
 - The consumers can be built by you, AWS SageMaker or AWS Rekognition.
